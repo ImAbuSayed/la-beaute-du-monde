@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-beaute-du-monde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for La Beauté Du Monde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-beaute-du-monde/) |
+| **Get License** | [Music Rights & Licensing for La Beauté Du Monde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-beaute-du-monde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9fce8e717daa0403cbfa844ee5700a2a9be94c9f538f4b5245f05de59c288957` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
