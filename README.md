@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-beaute-du-monde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for La Beauté Du Monde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-beaute-du-monde/) |
+| **Get License** | [Official Music Licensing for La Beauté Du Monde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-beaute-du-monde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> C'est la beauté du monde, sous les lumières de la ville
+> Ton parfum sur ma veste, bébé, c'est mon seul asile
+> On ride dans la night, tu connais la mélodie
+> Just you and me, on danse jusqu'à l'infini
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
